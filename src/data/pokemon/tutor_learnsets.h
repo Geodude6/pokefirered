@@ -125,10 +125,13 @@ static const u16 sTutorLearnsets[] =
 
     [SPECIES_PIDGEOTTO] = TUTOR(MOVE_DOUBLE_EDGE)
                         | TUTOR(MOVE_MIMIC)
+                        | TUTOR(MOVE_SOFT_BOILED)
                         | TUTOR(MOVE_SUBSTITUTE),
 
-    [SPECIES_PIDGEOT] = TUTOR(MOVE_DOUBLE_EDGE)
+    [SPECIES_PIDGEOT] = TUTOR(MOVE_BODY_SLAM)
+                      | TUTOR(MOVE_DOUBLE_EDGE)
                       | TUTOR(MOVE_MIMIC)
+                      | TUTOR(MOVE_SOFT_BOILED)
                       | TUTOR(MOVE_SUBSTITUTE),
 
     [SPECIES_RATTATA] = TUTOR(MOVE_BODY_SLAM)
