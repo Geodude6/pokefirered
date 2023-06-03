@@ -122,6 +122,7 @@ const u16 gEggMoves[] = {
 
     egg_moves(PARAS,
               MOVE_FALSE_SWIPE,
+              MOVE_LEECH_SEED,
               MOVE_SCREECH,
               MOVE_COUNTER,
               MOVE_PSYBEAM,
