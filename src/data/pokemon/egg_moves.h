@@ -502,6 +502,7 @@ const u16 gEggMoves[] = {
               MOVE_LEECH_SEED,
               MOVE_COUNTER,
               MOVE_ANCIENT_POWER,
+			  MOVE_OUTRAGE
               MOVE_FLAIL,
               MOVE_NATURE_POWER,
               MOVE_INGRAIN,
