@@ -454,6 +454,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM26_EARTHQUAKE)
                                         | TMHM(TM27_RETURN)
                                         | TMHM(TM28_DIG)
+										| TMHM(TM31_BRICK_BREAK)
                                         | TMHM(TM32_DOUBLE_TEAM)
                                         | TMHM(TM36_SLUDGE_BOMB)
                                         | TMHM(TM41_TORMENT)
@@ -462,6 +463,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM44_REST)
                                         | TMHM(TM45_ATTRACT)
                                         | TMHM(TM46_THIEF)
+										| TMHM(TM48_SKILL_SWAP)
                                         | TMHM(TM49_SNATCH)
                                         | TMHM(HM04_STRENGTH)),
 

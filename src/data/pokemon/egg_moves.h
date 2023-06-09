@@ -64,7 +64,11 @@ const u16 gEggMoves[] = {
               MOVE_SLAM,
               MOVE_SPITE,
               MOVE_BEAT_UP,
-              MOVE_POISON_FANG),
+              MOVE_POISON_FANG,
+			  MOVE_HYPNOSIS,
+			  MOVE_ROLE_PLAY,
+			  MOVE_TRICK
+			  MOVE_CRUNCH),
 
     egg_moves(SANDSHREW,
               MOVE_FLAIL,
@@ -108,6 +112,7 @@ const u16 gEggMoves[] = {
               MOVE_QUICK_ATTACK,
               MOVE_PURSUIT,
               MOVE_FAINT_ATTACK,
+			  MOVE_HYPNOSIS
               MOVE_GUST,
               MOVE_WHIRLWIND,
               MOVE_CURSE),
