@@ -31,7 +31,8 @@ const u16 gEggMoves[] = {
               MOVE_FLAIL,
               MOVE_REFRESH,
               MOVE_MUD_SPORT,
-              MOVE_YAWN),
+              MOVE_YAWN,
+			  MOVE_WATER_SPOUT),
 
     egg_moves(PIDGEY,
               MOVE_PURSUIT,
@@ -134,7 +135,8 @@ const u16 gEggMoves[] = {
               MOVE_FLAIL,
               MOVE_SWEET_SCENT,
               MOVE_LIGHT_SCREEN,
-              MOVE_PURSUIT),
+              MOVE_PURSUIT,
+			  MOVE_GROWTH),
 
     egg_moves(VENONAT,
               MOVE_BATON_PASS,
@@ -195,7 +197,8 @@ const u16 gEggMoves[] = {
               MOVE_HAZE,
               MOVE_MIND_READER,
               MOVE_WATER_SPORT,
-              MOVE_ICE_BALL),
+              MOVE_ICE_BALL,
+			  MOVE_GROWTH),
 
     egg_moves(ABRA,
               MOVE_ENCORE,
@@ -203,7 +206,8 @@ const u16 gEggMoves[] = {
               MOVE_KNOCK_OFF,
               MOVE_FIRE_PUNCH,
               MOVE_THUNDER_PUNCH,
-              MOVE_ICE_PUNCH),
+              MOVE_ICE_PUNCH,
+			  MOVE_CONFUSION),
 
     egg_moves(MACHOP,
               MOVE_LIGHT_SCREEN,
@@ -458,7 +462,8 @@ const u16 gEggMoves[] = {
               MOVE_ENDURE,
               MOVE_CURSE,
               MOVE_TICKLE,
-              MOVE_WISH),
+              MOVE_WISH,
+			  MOVE_GROWTH),
 
     egg_moves(OMANYTE,
               MOVE_BUBBLE_BEAM,
@@ -563,7 +568,8 @@ const u16 gEggMoves[] = {
               MOVE_SONIC_BOOM,
               MOVE_BATON_PASS,
               MOVE_PURSUIT,
-              MOVE_SIGNAL_BEAM),
+              MOVE_SIGNAL_BEAM,
+			  MOVE_GROWTH),
 
     egg_moves(CHINCHOU,
               MOVE_FLAIL,
@@ -669,7 +675,8 @@ const u16 gEggMoves[] = {
               MOVE_REVERSAL,
               MOVE_LEECH_LIFE,
               MOVE_SIGNAL_BEAM,
-              MOVE_SILVER_WIND),
+              MOVE_SILVER_WIND,
+			  MOVE_DRAGON_RAGE),
 
     egg_moves(WOOPER,
               MOVE_BODY_SLAM,
@@ -807,7 +814,8 @@ const u16 gEggMoves[] = {
               MOVE_HAZE,
               MOVE_SCREECH,
               MOVE_THUNDER_WAVE,
-              MOVE_ROCK_BLAST),
+              MOVE_ROCK_BLAST,
+			  MOVE_WATER_SPOUT),
 
     egg_moves(DELIBIRD,
               MOVE_AURORA_BEAM,
@@ -863,7 +871,8 @@ const u16 gEggMoves[] = {
               MOVE_HI_JUMP_KICK,
               MOVE_MACH_PUNCH,
               MOVE_MIND_READER,
-              MOVE_HELPING_HAND),
+			  MOVE_DIZZY_PUNCH,
+			  MOVE_DETECT),
 
     egg_moves(SMOOCHUM,
               MOVE_MEDITATE,
@@ -952,7 +961,8 @@ const u16 gEggMoves[] = {
               MOVE_SWEET_SCENT,
               MOVE_LEECH_SEED,
               MOVE_FLAIL,
-              MOVE_WATER_GUN),
+              MOVE_WATER_GUN,
+			  MOVE_GROWTH),
 
     egg_moves(SEEDOT,
               MOVE_LEECH_SEED,
